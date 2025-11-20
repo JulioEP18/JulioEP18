@@ -96,8 +96,8 @@ const desarrollador = {
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JulioEP18&repo=PROYECTO1&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7)](https://github.com/JulioEP18/PROYECTO1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JulioEP18&repo=PROYECTO2&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7)](https://github.com/JulioEP18/PROYECTO2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JulioEP18&repo=space-invaders&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7)](https://github.com/JulioEP18/space-invaders)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JulioEP18&repo=pygame_sample&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7)](https://github.com/JulioEP18/pygame_sample)
 
 </div>
 
