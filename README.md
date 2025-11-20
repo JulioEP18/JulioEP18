@@ -1,8 +1,18 @@
-# 👋 ¡Hola! Soy [Tu Nombre]
+# 👋 Hi there I'm [Julio]
 
 <div align="center">
   
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Desarrollador+Full+Stack;Creador+de+Soluciones+Innovadoras;Apasionado+por+la+Tecnología)
+
+<a href="https://www.host833.com/equipos">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
+</a>
+<a href="https://www.instagram.com/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+</a>
+<a href="https://www.x.com">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
+</a>
 
 </div>
 
@@ -10,21 +20,21 @@
 
 ```javascript
 const desarrollador = {
-    nombre: "Tu Nombre",
-    ubicacion: "Tampico, México 🇲🇽",
-    codigo: ["JavaScript", "Python", "TypeScript", "Java"],
-    tecnologias: {
+    name: "Julio Pérez",
+    location: "México 🇲🇽",
+    code: ["JavaScript", "Python", "TypeScript", "Java"],
+    technologies: {
         frontend: ["React", "Vue", "Next.js", "Tailwind CSS"],
         backend: ["Node.js", "Express", "Django", "FastAPI"],
         databases: ["MongoDB", "PostgreSQL", "MySQL"],
         tools: ["Docker", "Git", "AWS", "Firebase"]
     },
-    intereses: ["Machine Learning", "Cloud Computing", "Open Source"],
-    estado: "Siempre aprendiendo algo nuevo 🌱"
+    interests: ["Machine Learning", "Cloud Computing", "Open Source"],
+    currentStatus: "Always learning something new 🌱"
 };
 ```
 
-## 💻 Stack Tecnológico
+## 💻 Tech Stack
 
 <div align="center">
 
@@ -47,14 +57,14 @@ const desarrollador = {
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Herramientas
+### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
-## 📊 Estadísticas de GitHub
+## 📊 GitHub Stats
 
 <div align="center">
   
@@ -66,7 +76,7 @@ const desarrollador = {
 
 </div>
 
-## 🏆 Trofeos de GitHub
+## 🏆 GitHub Trophies
 
 <div align="center">
   
@@ -74,7 +84,7 @@ const desarrollador = {
 
 </div>
 
-## 📈 Gráfica de Contribuciones
+## 📈 Contribution Graph
 
 <div align="center">
 
@@ -82,7 +92,7 @@ const desarrollador = {
 
 </div>
 
-## 🎯 Proyectos Destacados
+## 🎯 Featured Projects
 
 <div align="center">
 
@@ -91,7 +101,7 @@ const desarrollador = {
 
 </div>
 
-## 🤝 Conecta Conmigo
+## 🤝 Connect With Me
 
 <div align="center">
 
@@ -102,7 +112,7 @@ const desarrollador = {
 
 </div>
 
-## 💡 Frase del Día
+## 💡 Quote of the Day
 
 <div align="center">
 
@@ -114,7 +124,7 @@ const desarrollador = {
 
 <div align="center">
 
-### 🎵 Escuchando Ahora
+### 🎵 Currently Listening
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=TU_SPOTIFY_ID&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=TU_SPOTIFY_ID&redirect=true)
 
@@ -124,7 +134,7 @@ const desarrollador = {
 
 <div align="center">
   
-**✨ "El código es poesía" ✨**
+**✨ "Code is poetry" ✨**
 
 ![Visitor Count](https://profile-counter.glitch.me/TU_USUARIO/count.svg)
 
