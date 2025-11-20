@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Desarrollador+Full+Stack;Creador+de+Soluciones+Innovadoras;Apasionado+por+la+Tecnología)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Full+Stack+Developer;Building+Innovative+Solutions;Passionate+About+Technology)
 
 <a href="https://www.host833.com/equipos">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
@@ -68,11 +68,11 @@ const desarrollador = {
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JulioEP18&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JulioEP18&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulioEP18&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7)
 
 </div>
 
@@ -80,7 +80,7 @@ const desarrollador = {
 
 <div align="center">
   
-![trophy](https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=radical&no-frame=true&no-bg=true&column=7)
+![trophy](https://github-profile-trophy.vercel.app/?username=JulioEP18&theme=radical&no-frame=true&no-bg=true&column=7)
 
 </div>
 
@@ -88,7 +88,7 @@ const desarrollador = {
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JulioEP18&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF)
 
 </div>
 
@@ -96,8 +96,8 @@ const desarrollador = {
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=PROYECTO1&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7)](https://github.com/TU_USUARIO/PROYECTO1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=PROYECTO2&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7)](https://github.com/TU_USUARIO/PROYECTO2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JulioEP18&repo=PROYECTO1&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7)](https://github.com/JulioEP18/PROYECTO1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JulioEP18&repo=PROYECTO2&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7)](https://github.com/JulioEP18/PROYECTO2)
 
 </div>
 
@@ -136,6 +136,6 @@ const desarrollador = {
   
 **✨ "Code is poetry" ✨**
 
-![Visitor Count](https://profile-counter.glitch.me/TU_USUARIO/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/JulioEP18/count.svg)
 
 </div>
