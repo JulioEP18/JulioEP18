@@ -135,7 +135,7 @@ const desarrollador = {
 
 <div align="center">
   
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=radical&animation=default&layout=default&font=default)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 
