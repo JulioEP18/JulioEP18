@@ -76,13 +76,32 @@ const desarrollador = {
 
 </div>
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <div align="center">
   
-![trophy](https://github-profile-trophy.vercel.app/?username=JulioEP18&theme=radical&no-frame=true&no-bg=true&column=7)
+<img src="https://github-profile-trophy.vercel.app/?username=JulioEP18&theme=dracula&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
 
 </div>
+
+<div align="center">
+
+### 📊 Profile Summary
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JulioEP18&theme=radical)
+
+</div>
+
+<div align="center">
+
+### ⚡ Most Used Languages & Productive Time
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JulioEP18&theme=radical" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JulioEP18&theme=radical" alt="Productive Time" />
+
+</div>
+
+<div align="center">
 
 ## 📈 Contribution Graph
 
@@ -115,7 +134,7 @@ const desarrollador = {
 ## 💡 Quote of the Day
 
 <div align="center">
-
+  
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=radical&animation=default&layout=default&font=default)
 
 </div>
