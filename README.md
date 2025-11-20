@@ -145,7 +145,7 @@ const desarrollador = {
 
 ### 🐍 Contribution Snake
 
-![snake gif](https://github.com/JulioEP18/JulioEP18/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/JulioEP18/JulioEP18/output/snake.svg)
 
 </div>
 
