@@ -18,20 +18,25 @@
 
 ## 🚀 Sobre Mí
 
-```javascript
-const desarrollador = {
-    name: "Julio Pérez",
-    location: "México 🇲🇽",
-    code: ["JavaScript", "Python", "TypeScript", "Java"],
-    technologies: {
-        frontend: ["React", "Vue", "Next.js", "Tailwind CSS"],
-        backend: ["Node.js", "Express", "Django", "FastAPI"],
-        databases: ["MongoDB", "PostgreSQL", "MySQL"],
-        tools: ["Docker", "Git", "AWS", "Firebase"]
-    },
-    interests: ["Machine Learning", "Cloud Computing", "Open Source"],
-    currentStatus: "Always learning something new 🌱"
-};
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Julio Pérez"
+        self.location = "México 🇲🇽"
+        self.code = ["Python", "C++", "Java"]
+        self.technologies = {
+            "game_dev": ["Pygame", "PyOpenGL"],
+            "tools": ["Git", "VS Code", "PyCharm"],
+            "learning": ["Game Development", "Graphics Programming"]
+        }
+        self.interests = ["Game Development", "Retro Games", "Open Source"]
+        self.current_status = "Building games with Python 🎮"
+    
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something awesome together!")
+
+me = Developer()
+me.say_hi()
 ```
 
 ## 💻 Tech Stack
