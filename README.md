@@ -1,4 +1,4 @@
-# 👋 Hi there I'm [Julio]
+# 👋 Hi there! I'm [Julio]
 
 <div align="center">
   
@@ -155,6 +155,6 @@ const desarrollador = {
   
 **✨ "Code is poetry" ✨**
 
-![Visitor Count](https://profile-counter.glitch.me/JulioEP18/count.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=JulioEP18&color=blueviolet&style=flat-square&label=Profile+Views)
 
 </div>
